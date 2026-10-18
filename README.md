@@ -1,17 +1,15 @@
 
-<!-- ===================================================== -->
-<!-- VIBHESUN | FUTURISTIC CYBER GITHUB PROFILE             -->
-<!-- ===================================================== -->
+<!-- ======================================================= -->
+<!--             VIBHESUN SRIRAAYAR | PROFILE README          -->
+<!-- ======================================================= -->
 
 <div align="center">
 
-  <!-- COVER IMAGE: upload your chosen image to assets/github-cover.png -->
-
-  <img src="./assets/github-cover.png" width="100%" alt="Vibhesun futuristic cyber cover"/>
+  <img src="./template_5_edited.png" width="100%" alt="Vibhesun GitHub Profile Cover" />
 
   <br/>
 
-  <h1>VIBHESUN SRIRAAYAR</h1>
+  <h1>Hi, I'm Vibhesun Sriraayar 👋</h1>
 
   <h3>JAVA FULL STACK DEVELOPER • ECE FINAL YEAR STUDENT</h3>
 
@@ -19,203 +17,226 @@
     Building web applications with code & embedded systems with curiosity.
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Embedded+Software+%7C+IoT;Building+Practical+Real-World+Solutions" alt="Animated developer introduction"/>
-
-  <br/>
-
   <a href="https://github.com/Vibhesun">
-    <img src="https://img.shields.io/badge/GitHub-Vibhesun-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Vibhesun-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/vibhesun-sriraayar-a35a802a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:vibhem22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/>
-  </a>
-
-</div>
-
----
-
-## `01 // ABOUT ME`
-
-Hi, I'm **Vibhesun Sriraayar** — an aspiring **Java Full Stack Developer** and **Embedded Software Developer**, currently pursuing my B.E. in Electronics and Communication Engineering.
-
-I'm passionate about building practical, real-world solutions by combining software development with hardware innovation. My focus is on developing scalable web applications using **Java, Spring Boot, React.js, and MySQL**, while exploring embedded systems, IoT, and hardware–software integration.
-
-Through hands-on projects and internship experience, I'm continuously strengthening my programming, problem-solving, debugging, and application development skills. I enjoy turning ideas into functional solutions, learning new technologies, and understanding how software and hardware work together.
-
-### 🚀 Currently Focused On
-
-- Building full-stack applications with Java, Spring Boot, React.js, and MySQL.
-- Exploring embedded software, microcontrollers, sensors, and IoT.
-- Improving programming fundamentals and software design.
-- Developing practical projects that solve real-world problems.
-
-### 🎯 My Goal
-
-To grow as a versatile developer who bridges full-stack software engineering and embedded technology to create reliable, meaningful solutions.
-
-*Build with purpose. Learn continuously. Innovate relentlessly.*
-
----
-
-## `02 // TECH STACK`
-
-<div align="center">
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java backend technology icons"/>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technology icons"/>
-
-### Database & Development Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" alt="Database and development tools"/>
-
-### Embedded Systems
-
-<img src="https://skillicons.dev/icons?i=arduino,c" alt="Embedded development icons"/>
-
-</div>
-
-**Other skills:** REST APIs · JDBC · Servlets · Oracle SQL · Embedded C · Sensors · Microcontrollers · IoT
-
----
-
-## `03 // GITHUB ANALYTICS`
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vibhesun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhesun&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
-
-</div>
-
----
-
-## `04 // PROJECT SHOWCASE`
-
-Projects demonstrating my journey across full-stack development and embedded systems.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤟 Sensor Gloves
-
-**Sign Language Translation**
-
-- Flex sensors and accelerometer
-- Arduino Nano and Bluetooth
-- Assistive technology concept
-
-**Focus:** Embedded Systems, Sensors, Bluetooth
-
-</td>
-    <td width="50%" valign="top">
-
-### 🌱 Soil Nutrition System
-
-**Smart Agriculture**
-
-- Embedded systems
-- IoT-based monitoring concept
-- Agriculture-focused application
-
-**Focus:** IoT, Embedded Development
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛒 E-commerce Website
-
-**Web Application**
-
-- Web interface development
-- User-facing application features
-
-**Focus:** Web Development
-
-</td>
-    <td width="50%" valign="top">
-
-### 🔐 Login Web Page
-
-**Frontend Project**
-
-- HTML structure
-- CSS styling
-- JavaScript interactions
-
-**Focus:** HTML, CSS, JavaScript
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-### 🎬 Online Movie Ticket Booking
-
-**Full Stack Application**
-
-- Spring Boot backend
-- React.js frontend
-- MySQL database
-
-**Focus:** Java Full Stack Development
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
-
-  <a href="https://github.com/Vibhesun?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore all repositories"/>
-  </a>
-
-</div>
-
----
-
-## `05 // CURRENT MISSION`
-
-- Strengthening Core Java and object-oriented programming.
-- Developing RESTful APIs with Spring Boot.
-- Building responsive user interfaces with React.js.
-- Integrating web applications with MySQL.
-- Improving Git, GitHub, debugging, and software development practices.
-- Exploring embedded software and IoT applications.
-
----
-
-## `06 // LET'S CONNECT`
-
-<div align="center">
-
-  <p>Open to learning opportunities, technical discussions, and collaboration.</p>
-
-  <a href="https://github.com/Vibhesun">
-    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vibhesun-sriraayar-a35a802a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vibhem22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:082F49,100:00D9FF&height=100&section=footer" width="100%" alt="Cyber footer banner"/>
+  <img src="https://komarev.com/ghpvc/?username=Vibhesun&label=PROFILE%20VIEWS&color=00E5FF&style=flat-square" alt="Profile views"/>
 
-  <sub>Designed with curiosity. Powered by code. Driven by continuous learning.</sub>
+</div>
+
+---
+
+## `> whoami`
+
+```java
+public class Vibhesun {
+
+    String name = "Vibhesun Sriraayar";
+    String role = "Aspiring Java Full Stack Developer";
+    String education = "B.E. Electronics & Communication Engineering";
+    String college = "Meenakshi College of Engineering";
+
+    String[] backend = {
+        "Java", "Spring", "Spring Boot",
+        "REST APIs", "Hibernate", "JDBC", "Servlets"
+    };
+
+    String[] frontend = {
+        "HTML", "CSS", "JavaScript", "React.js"
+    };
+
+    String[] database = {
+        "MySQL", "Oracle SQL"
+    };
+
+    String[] embedded = {
+        "Embedded C", "Arduino", "Sensors",
+        "Microcontrollers", "IoT"
+    };
+
+    String goal =
+        "Build useful software by combining problem-solving, " +
+        "full-stack development and embedded technology.";
+}
+```
+
+I'm an Electronics and Communication Engineering student focused on becoming a **Java Full Stack Developer**. I enjoy building web applications and exploring embedded systems, IoT, and hardware–software integration.
+
+- 🔭 Currently developing my skills in **Java, Spring Boot, React.js and MySQL**
+- 🌱 Learning to build scalable, practical full-stack applications
+- ⚙️ Interested in embedded software, IoT and real-world engineering solutions
+- 🎯 Goal: Grow as a software developer and contribute to meaningful projects
+- 🤝 Open to learning opportunities, internships and collaborations
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js" alt="Programming languages"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Backend technologies"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend technologies"/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,arduino" alt="Databases and tools"/>
+
+</div>
+
+**Core technical skills**
+
+- **Java:** Core Java, OOP, Collections, JDBC, Servlets
+- **Backend:** Spring Framework, Spring Boot, REST APIs, Hibernate
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Databases:** MySQL, Oracle SQL
+- **Embedded systems:** Embedded C, Arduino, sensors, microcontrollers, IoT
+- **Development workflow:** Git, GitHub, debugging and API integration
+
+---
+
+## `> featured_projects`
+
+### 01. Sensor Gloves for Sign Language Translation
+
+**Technologies:** Arduino Nano · Flex Sensors · Analog Accelerometer · HC-05 Bluetooth
+
+An assistive embedded-system project designed to interpret finger movements and hand gestures. Flex sensors measure finger bending, while an accelerometer captures hand movement. The Arduino processes sensor readings and sends gesture information over Bluetooth to an Android application.
+
+**Highlights**
+- Sensor-based gesture recognition
+- Bluetooth communication with an Android phone
+- Hardware and software integration
+
+### 02. Soil Nutrition System
+
+**Technologies:** Embedded Systems · Sensors · IoT
+
+An agriculture-focused project concept designed to support soil monitoring and smarter agricultural decisions using sensor technology and embedded systems.
+
+**Highlights**
+- Sensor-based soil monitoring concept
+- Embedded-system integration
+- Potential for IoT-based agricultural applications
+
+### 03. E-commerce Website
+
+**Technologies:** HTML · CSS · JavaScript
+
+A web project focused on presenting products through a structured interface and creating a clear browsing experience.
+
+**Highlights**
+- Product-focused user interface
+- Responsive layout principles
+- Frontend development practice
+
+### 04. Login Web Page
+
+**Technologies:** HTML · CSS · JavaScript
+
+A login interface built to practise form design, input handling, validation concepts and interactive web development.
+
+### 05. Online Movie Ticket Booking System
+
+**Technologies:** Java · Spring Boot · React.js · MySQL
+
+A full-stack application concept for browsing movie information and managing ticket reservations through a frontend and backend connected to a database.
+
+**Highlights**
+- React-based frontend
+- Spring Boot backend APIs
+- MySQL database integration
+
+---
+
+## `> github_analytics`
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vibhesun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhesun&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8" alt="Most-used languages"/>
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhesun&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `> education`
+
+**B.E. Electronics and Communication Engineering (ECE)**  
+Meenakshi College of Engineering  
+Expected graduation: 2026
+
+---
+
+## `> experience`
+
+- **QSpiders** — Java Full Stack Internship / Training  
+  October 2025 – Present
+
+- **NSIC** — Embedded Systems Internship  
+  October 2025 – January 2026
+
+- **Mirror Technologies** — Embedded Systems Internship  
+  July 2025 – August 2025
+
+---
+
+## `> current_focus`
+
+```text
+[████████░░] Java & OOP
+[███████░░░] Spring Boot & REST APIs
+[███████░░░] React.js
+[███████░░░] MySQL & SQL
+[██████░░░░] Embedded Systems & IoT
+```
+
+*Continuously learning, building projects, and improving through hands-on practice.*
+
+---
+
+## `> connect_with_me`
+
+<div align="center">
+
+  <a href="https://github.com/Vibhesun">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/vibhesun-sriraayar-a35a802a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:vibhem22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <i>"Build with purpose. Learn continuously. Turn ideas into reality."</i>
 
 </div>
